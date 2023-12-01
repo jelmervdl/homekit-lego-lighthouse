@@ -1,0 +1,12 @@
+[Unit]
+Description=lighthouse
+After=syslog.target network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/jelmer/lighthouse
+ExecStart=/home/jelmer/lighthouse/homekit.py
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
