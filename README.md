@@ -1,4 +1,4 @@
-HomeKit integration for [LEGO Lighthouse 21335-1][(https://www.bricklink.com/v2/catalog/catalogitem.page?S=21335-1)
+HomeKit integration for [LEGO Lighthouse 21335-1](https://www.bricklink.com/v2/catalog/catalogitem.page?S=21335-1)
 
 Requirements:
 - [Raspberry Pi A+ form factor](https://www.raspberrypi.com/products/raspberry-pi-3-model-a-plus/)
